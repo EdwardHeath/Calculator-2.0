@@ -1,3 +1,6 @@
+const numbers = document.querySelectorAll(".number");
+const operators = document.querySelectorAll(".operator");
+
 function add(a, b) {
     return a + b;
 }
